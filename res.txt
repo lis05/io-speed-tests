@@ -1,0 +1,27 @@
+TEST:           numbers32
+iostream:       0.01
+scanf:          0.01
+getchar:        0.0
+getchar-fast:   0.0
+fastio:         0.01
+
+TEST:           numbers64
+iostream:       0.0
+scanf:          0.0
+getchar:        0.0
+getchar-fast:   0.0
+fastio:         0.0
+
+TEST:           chars
+iostream:       0.0
+scanf:          0.01
+getchar:        0.0
+getchar-fast:   0.0
+fastio:         0.0
+
+TEST:           strings
+iostream:       0.0
+scanf:          0.0
+getchar:        0.0
+getchar-fast:   0.0
+fastio:         0.0
